@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hojunhojun&label=Profile%20views&color=0e75b6&style=flat" alt="hojunhojun" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **1134hu@naver.com**
 
